@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usuarios>
+	<usuario>
+		<usuarioid>1</usuarioid>
+		<nombre>Samuel Aguilera</nombre>
+		<facebook>samuelaguilera</facebook>
+	</usuario>
+	<usuario>
+		<usuarioid>2</usuarioid>
+		<nombre>Pepito</nombre>
+		<facebook>pepito</facebook>
+	</usuario>
+</usuarios>
